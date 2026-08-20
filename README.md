@@ -27,7 +27,7 @@ This model was built to demonstrate core financial modeling skills — historica
 
 ![Cash Flow](Screenshots/Cash-Flow.png)
 
-![DCF Valuation](Screenshots/Dcf-Valuation.png)
+![DCF Valuation](Screenshots/DCF-Valuation.png)
 
 ## Methodology
 
