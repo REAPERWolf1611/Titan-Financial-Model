@@ -19,15 +19,15 @@ This model was built to demonstrate core financial modeling skills — historica
 | `Cash Flow` | Fully derived from Income Statement + Balance Sheet changes (Operating), plus Investing and Financing activity |
 | `DCF` | Unlevered FCFF build, CAPM-based WACC, Gordon Growth terminal value, implied share price |
 
-![Assumptions Tab](Screenshots/01_Assumptions.png)
+![Assumptions Tab](Screenshots/Assumptions.png)
 
-![Income Statement](Screenshots/02_Income-Statement.png)
+![Income Statement](Screenshots/Income-Statement.png)
 
-![Balance Sheet](Screenshots/03_Balance-Sheet.png)
+![Balance Sheet](Screenshots/Balance-Sheet.png)
 
-![Cash Flow](Screenshots/04_Cash-Flow.png)
+![Cash Flow](Screenshots/Cash-Flow.png)
 
-![DCF Valuation](Screenshots/05_Dcf-Valuation.png)
+![DCF Valuation](Screenshots/Dcf-Valuation.png)
 
 ## Methodology
 
